@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tejas-D-Dongare-2003
+- 👋 Hi, I’m @Tejas
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
